@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learn-redux/static/css/main.a0b33bfa.chunk.css",
+    "main.js": "/learn-redux/static/js/main.8c4b78a4.chunk.js",
+    "main.js.map": "/learn-redux/static/js/main.8c4b78a4.chunk.js.map",
+    "runtime-main.js": "/learn-redux/static/js/runtime-main.3731f4d9.js",
+    "runtime-main.js.map": "/learn-redux/static/js/runtime-main.3731f4d9.js.map",
+    "static/js/2.3ca277cb.chunk.js": "/learn-redux/static/js/2.3ca277cb.chunk.js",
+    "static/js/2.3ca277cb.chunk.js.map": "/learn-redux/static/js/2.3ca277cb.chunk.js.map",
+    "index.html": "/learn-redux/index.html",
+    "precache-manifest.89e16ebb15d1e9ba136454c501a8e648.js": "/learn-redux/precache-manifest.89e16ebb15d1e9ba136454c501a8e648.js",
+    "service-worker.js": "/learn-redux/service-worker.js",
+    "static/css/main.a0b33bfa.chunk.css.map": "/learn-redux/static/css/main.a0b33bfa.chunk.css.map",
+    "static/js/2.3ca277cb.chunk.js.LICENSE": "/learn-redux/static/js/2.3ca277cb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3731f4d9.js",
+    "static/js/2.3ca277cb.chunk.js",
+    "static/css/main.a0b33bfa.chunk.css",
+    "static/js/main.8c4b78a4.chunk.js"
+  ]
+}
